@@ -1,4 +1,2 @@
 #!/bin/bash
-#who am i scripting
-whoami 
-this is the command  
+whoami is the command used   
