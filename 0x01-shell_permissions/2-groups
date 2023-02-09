@@ -1,0 +1,4 @@
+#!/bin/bash
+#script file 
+groups command is used to show all the groups the current user is in
+
