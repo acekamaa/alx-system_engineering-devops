@@ -1,1 +1,2 @@
-vi script
+#!/bin/bash
+pwd command
