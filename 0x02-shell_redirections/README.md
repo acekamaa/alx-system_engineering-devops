@@ -1,1 +1,1 @@
-myhellofile
+read twofiles
