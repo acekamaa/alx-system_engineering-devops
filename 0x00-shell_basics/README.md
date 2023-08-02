@@ -1,1 +1,1 @@
-my first shell script
+indicates 1-listit is about listing directory contents
